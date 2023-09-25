@@ -5,7 +5,7 @@
 namespace AuctionService.Data.Migrations
 {
     /// <inheritdoc />
-    public partial class yeni : Migration
+    public partial class yeni : Migration // last migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
