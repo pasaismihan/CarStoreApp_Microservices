@@ -20,6 +20,7 @@ var app = builder.Build();
 app.UseAuthorization();
 
 app.MapControllers();
+
 try
 {
     DbInitializer.InitDb(app);
