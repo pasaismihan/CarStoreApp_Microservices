@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
-// Configuration DbContext (PostgreSql)
+// Configuration DbContext (PostgreSql db)
 builder.Services.AddDbContext<AuctionDbContext>(opt => {
     opt.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
