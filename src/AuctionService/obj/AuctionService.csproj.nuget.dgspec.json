@@ -1,26 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pasa/CarStoreApp_Microservices/src/AuctionService/AuctionService.csproj": {}
+    "C:\\Users\\Pasa\\CarStoreApp_Microservices\\src\\AuctionService\\AuctionService.csproj": {}
   },
   "projects": {
-    "/Users/pasa/CarStoreApp_Microservices/src/AuctionService/AuctionService.csproj": {
+    "C:\\Users\\Pasa\\CarStoreApp_Microservices\\src\\AuctionService\\AuctionService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pasa/CarStoreApp_Microservices/src/AuctionService/AuctionService.csproj",
+        "projectUniqueName": "C:\\Users\\Pasa\\CarStoreApp_Microservices\\src\\AuctionService\\AuctionService.csproj",
         "projectName": "AuctionService",
-        "projectPath": "/Users/pasa/CarStoreApp_Microservices/src/AuctionService/AuctionService.csproj",
-        "packagesPath": "/Users/pasa/.nuget/packages/",
-        "outputPath": "/Users/pasa/CarStoreApp_Microservices/src/AuctionService/obj/",
+        "projectPath": "C:\\Users\\Pasa\\CarStoreApp_Microservices\\src\\AuctionService\\AuctionService.csproj",
+        "packagesPath": "C:\\Users\\Pasa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pasa\\CarStoreApp_Microservices\\src\\AuctionService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/pasa/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Pasa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/gezinomi/auth/3f09f7ba-d0e2-46fd-9e74-8dd11acb8796/api/v2": {}
         },
         "frameworks": {
           "net7.0": {
@@ -72,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
